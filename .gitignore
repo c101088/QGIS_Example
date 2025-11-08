@@ -52,3 +52,19 @@ compile_commands.json
 *creator.user*
 
 *_qmlcache.qrc
+/.idea/.gitignore
+/.idea/deployment.xml
+/.idea/editor.xml
+/.idea/modules.xml
+/.idea/QGIS_Example.iml
+/.idea/vcs.xml
+/python/PyQGIS_Example/.idea/inspectionProfiles/profiles_settings.xml
+/python/PyQGIS_Example/.idea/inspectionProfiles/Project_Default.xml
+/python/PyQGIS_Example/.idea/.gitignore
+/python/PyQGIS_Example/.idea/dataSources.xml
+/python/PyQGIS_Example/.idea/deployment.xml
+/python/PyQGIS_Example/.idea/material_theme_project_new.xml
+/python/PyQGIS_Example/.idea/misc.xml
+/python/PyQGIS_Example/.idea/modules.xml
+/python/PyQGIS_Example/.idea/PyQGIS_Example.iml
+/python/PyQGIS_Example/.idea/vcs.xml
